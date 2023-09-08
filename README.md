@@ -23,5 +23,5 @@ in my case i was so amazied that it was completed in a single html page.it was u
 vercel is the hosting and deployment platorm.it gives 100gb hosting for completely free.
 
 <h2>my portfolio</h2>
-<img src="">
-<img src="">
+<img src="https://raw.githubusercontent.com/ssprasad-cyber/ssaiprasad/main/assects/myport%20page1.PNG">
+<img src="https://raw.githubusercontent.com/ssprasad-cyber/ssaiprasad/main/assects/page2.PNG">
